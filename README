@@ -1,2 +1,6 @@
-Vip��python������ȡ�ͽ�ģ��ֻŪ�˼��죬Ч�����Ǻܺã�������python
-��Ŀ��http://www.datafountain.cn/#/competitions/260/intro
+Vip题目：http://www.datafountain.cn/#/competitions/260/intro
+Vip的python特征提取和建模，只弄了几天，效果不是很好，练了练python
+python_Features里边是提的特征
+tong_ji里边是简单的统计
+vip_model_offline_6_9.py是线下建模
+vip_model_online_6_9.py是线上预测
